@@ -1,6 +1,6 @@
 # Mi Primver MVT
 
-!(src/mvt.png)
+!(/src/mvt.png)
 
 
 Entrega de proyecto CODERHOUSE.
